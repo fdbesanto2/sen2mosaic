@@ -1,0 +1,4 @@
+glymur
+pandas
+sentinelsat
+scipy
